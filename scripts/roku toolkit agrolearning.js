@@ -1,6 +1,6 @@
 // Laboratório de Sistemas de Informação Espacial - Projeto Agrolearning
 // novembro de 2024,  Wallace Silva, wallacevds22@gmail.com
-// Ferramenta para gerar conjuntos de estatísticas e mapas dos dados e região de interesse (ROKU) 
+// Ferramenta para gerar conjuntos de estatísticas e mapas dos dados e região de interesse (ROKU), Script Earth Engine
 // --- --- --- datasets
 var lulc_col = ee.Image('projects/mapbiomas-public/assets/brazil/lulc/collection9/mapbiomas_collection90_integration_v1');
 lulc_col = lulc_col
