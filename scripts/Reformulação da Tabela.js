@@ -1,6 +1,6 @@
 // Laboratório de Sistemas de Informação Espacial - Projeto Agrolearning
 // novembro de 2024,  Wallace Silva, wallacevds22@gmail.com
-// Reformulação da tabela longa das Unidades Olerícolas da EMATER para uma tabela larga, visando uma melhor exploração dos dados em um BI
+// Reformulação da tabela longa das Unidades Olerícolas da EMATER para uma tabela larga, visando uma melhor exploração dos dados em um BI, Script Earth Engine
 
 var emater= ee.FeatureCollection('users/wallacesilva/Unidades_Emater_Olericulas');
 print('emater',emater);
